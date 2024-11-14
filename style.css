@@ -308,6 +308,7 @@ a:hover {
 }
 
 #socials-container {
+    cursor: pointer;
     display: flex;
     justify-content: center;
     gap: 1rem;
